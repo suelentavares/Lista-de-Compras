@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist --repo https://github.com/suelentavares/Lista-de-Compras.git"
   },
   "dependencies": {
     "react": "^19.2.7",
